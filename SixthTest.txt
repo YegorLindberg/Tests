@@ -1,7 +1,7 @@
 
-del
 
 static
+add
 static
 static
 static
